@@ -1,2 +1,3 @@
 # Webd1000-jan09
-First repository
+* Bullet point 1
+* Bullet point 2
